@@ -35,4 +35,4 @@ Antes de executar o pipeline, garanta que:
 - Você tenha o Elasticsearch instalado e em execução (versão compatível).  
 - Tenha Python 3.x instalado com dependências: `elasticsearch` e `pyspark`
 - (Opcional) Se usar Apache Spark, tenha Spark configurado corretamente.  
-- Os dados de filmes estejam disponíveis no local esperado ou as credenciais/configurações da API estejam definidas.
+- Os dados de filmes estejam disponíveis.
